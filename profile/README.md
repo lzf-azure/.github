@@ -1,4 +1,4 @@
-# GitOps az Landing zone enhancement
+# GitOps as Landing zone enhancement
 
 This project demonstrates a simple yet powerful concept of cooperation between 
 * GitHub organization
