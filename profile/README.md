@@ -1,8 +1,8 @@
 # GitOps as Landing zone enhancement
 
-This project demonstrates a simple yet powerful concept of cooperation between 
+This project demonstrates a powerful concept of cooperation between 
 * GitHub organization
-* Terraform Enterprise Workspaces
+* Terraform Enterprise Workspaces and Sentinel check
 * Azure Cloud as provisioning target
 
 The concept is geared towards keeping all your project as code in GitHub. Apart from your proper source code this incompasses
@@ -13,9 +13,15 @@ The concept is geared towards keeping all your project as code in GitHub. Apart 
 
 # What will I get from this
 
-In essence a basic workflow, all your projects can build on:
+In essence a basic workflow, to get the gist, and expand for your corporate requirements:
 
 ![image](https://user-images.githubusercontent.com/7328002/184539590-f50b4ea5-8776-4456-8fb7-c15bd5fce5f0.png)
 
 # How do I start
 Checkout and run the [bootstrap repo](https://github.com/lzf-azure/bootstrap)
+
+# Corporate enhancements
+* link with existing employee authentication systems like [Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/github-tutorial)
+* define a corpus of enterprise policies via pre-existing and custom [Sentinels](https://www.terraform.io/cloud-docs/sentinel/manage-policies)
+* Google Cloud or Hybrid cloud enhancements
+* Kubernetes modules
