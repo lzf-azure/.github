@@ -20,8 +20,5 @@ In essence a basic workflow, to get the gist, and expand for your corporate requ
 # How do I start
 Checkout and run the [bootstrap repo](https://github.com/lzf-azure/bootstrap)
 
-# Corporate enhancements
-* link with existing employee authentication systems like [Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/github-tutorial)
-* define a corpus of enterprise policies via pre-existing and custom [Sentinels](https://www.terraform.io/cloud-docs/sentinel/manage-policies)
-* Google Cloud or Hybrid cloud enhancements
-* Kubernetes modules
+# More details
+For more details on the background of this soulution, check out my blog at https://www.csabameszaros.com/2023/08/05/azure-devops-landing-zone/
